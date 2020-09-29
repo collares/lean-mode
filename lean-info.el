@@ -14,6 +14,7 @@
 ;; Released under Apache 2.0 license as described in the file LICENSE.
 ;;
 
+(require 'cl-lib)
 (require 'lean-syntax)
 
 ;; Lean Info Mode (for "*lean-info*" buffer)
